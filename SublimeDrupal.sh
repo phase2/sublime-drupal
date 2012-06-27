@@ -40,7 +40,7 @@ git clone https://github.com/BrianGilbert/Sublime-Text-2-Goto-Drupal-API.git;
 git clone https://github.com/juhasz/drupal_sublime-snippets.git DrupalSublimeSnippets;
 
 # DrupalCodingStandard Fork
-git clone https://github.com/rypit/DrupalCodingStandard DrupalCodingStandard;
+git clone https://github.com/rypit/DrupalCodingStandard.git DrupalCodingStandard;
 
 # Address pathing issues with DrupalCodingStandard's phpcs path
 if [ -d /usr/bin/phpcs ]; then
