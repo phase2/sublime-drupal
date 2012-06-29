@@ -24,6 +24,9 @@ cd "$st2Dir";
 
 # Clone all the plugins!
 
+# Package Control
+git clone https://github.com/wbond/sublime_package_control.git "Package Control";
+
 # BracketHighlighter
 git clone https://github.com/facelessuser/BracketHighlighter.git BracketHighlighter;
 
